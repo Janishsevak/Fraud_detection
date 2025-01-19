@@ -1,8 +1,6 @@
 # Fraud_detection
 This project developed by using machine learning
 
-Fraud Detection Project
-
 Title: Fraud Detection Using Machine Learning
 Subtitle: A Project Based on Random Forest Classifier
 Your Name: Jainishkumar Sevak
@@ -37,7 +35,7 @@ o	Random Forest Classifier with 100 estimators, random state = 42.
 o	Python: sklearn, classification_report, confusion_matrix, accuracy_score.
 •	Training:
 
-•	# Step 6: Train Model
+•	#       Train Model
 •	        logger.info("Starting model training.")
 •	        model = FraudModel()
 •	        model.train(X_train_resampled, y_train_resampled)
@@ -57,7 +55,7 @@ o	Python: sklearn, classification_report, confusion_matrix, accuracy_score.
 •	Evaluation:
 
 
- # Step 7: Evaluate Model
+      # Evaluate Model
         logger.info("Starting model evaluation.")
         evaluation_metrics = model.evaluate(X_test, y_test)
 
@@ -141,7 +139,3 @@ o	Incorporating advanced ensemble methods such as XGBoost or LightGBM may improv
 9. Conclusion
 •	Summary:
 The Random Forest model demonstrated strong overall performance, achieving 97.47% accuracy. It effectively identified non-fraudulent transactions with high precision (99.81%) and an F1-score of 98.71%. While the model showed limitations in precision for fraudulent cases (21.73%), it achieved a recall of 77.83%, ensuring most fraudulent cases were detected. The macro-average F1-score of 66.34% highlights room for improvement in handling imbalanced datasets.
-
-.
-
-
