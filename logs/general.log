@@ -1,0 +1,441 @@
+2025-01-14 11:01:33 - INFO - Starting data loading process.
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-01.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-02.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-03.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-04.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-05.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-06.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-07.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-08.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-09.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-10.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-11.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-12.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-13.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-14.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-15.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-16.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-17.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-18.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-19.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-20.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-21.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-22.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-23.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-24.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-25.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-26.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-27.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-28.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-29.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-04-30.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-01.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-02.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-03.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-04.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-05.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-06.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-07.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-08.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-09.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-10.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-11.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-12.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-13.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-14.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-15.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-16.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-17.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-18.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-19.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-20.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-21.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-22.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-23.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-24.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-25.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-26.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-27.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-28.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-29.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-30.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-05-31.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-01.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-02.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-03.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-04.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-05.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-06.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-07.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-08.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-09.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-10.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-11.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-12.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-13.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-14.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-15.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-16.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-17.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-18.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-19.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-20.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-21.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-22.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-23.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-24.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-25.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-26.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-27.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-28.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-29.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-06-30.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-01.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-02.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-03.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-04.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-05.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-06.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-07.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-08.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-09.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-10.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-11.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-12.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-13.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-14.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-15.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-16.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-17.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-18.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-19.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-20.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-21.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-22.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-23.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-24.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-25.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-26.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-27.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-28.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-29.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-30.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-07-31.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-08-01.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-08-02.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-08-03.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-08-04.pkl
+2025-01-14 11:01:33 - INFO - Loading file: Dataset\2018-08-05.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-06.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-07.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-08.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-09.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-10.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-11.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-12.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-13.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-14.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-15.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-16.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-17.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-18.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-19.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-20.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-21.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-22.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-23.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-24.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-25.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-26.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-27.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-28.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-29.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-30.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-08-31.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-01.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-02.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-03.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-04.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-05.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-06.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-07.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-08.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-09.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-10.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-11.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-12.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-13.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-14.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-15.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-16.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-17.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-18.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-19.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-20.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-21.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-22.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-23.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-24.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-25.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-26.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-27.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-28.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-29.pkl
+2025-01-14 11:01:34 - INFO - Loading file: Dataset\2018-09-30.pkl
+2025-01-14 11:01:34 - INFO - All data successfully loaded and combined.
+2025-01-14 11:01:35 - INFO - Starting feature engineering process.
+2025-01-14 11:01:40 - INFO - Splitting data into training and testing sets.
+2025-01-14 11:01:40 - INFO - Starting model training.
+2025-01-14 11:11:06 - INFO - Model training completed successfully.
+2025-01-14 11:11:06 - INFO - Training dataset size: 1403324
+2025-01-14 11:11:06 - INFO - Testing dataset size: 350831
+2025-01-14 11:11:10 - INFO - Trained model saved to 'fraud_model.pkl'.
+2025-01-14 11:11:10 - INFO - Trained model saved to 'fraud_model.pkl'.
+2025-01-14 11:11:10 - INFO - Starting model evaluation.
+2025-01-14 11:11:18 - INFO - Model evaluation completed successfully.
+2025-01-14 11:11:18 - INFO - Evaluation Metrics:
+2025-01-14 11:11:18 - INFO - Accuracy Score: 0.9936
+2025-01-14 11:11:18 - INFO - Confusion Matrix: [[347884, 86], [2163, 698]]
+2025-01-14 11:11:18 - INFO - Label: 0
+2025-01-14 11:11:18 - INFO -   precision: 0.9938
+2025-01-14 11:11:18 - INFO -   recall: 0.9998
+2025-01-14 11:11:18 - INFO -   f1-score: 0.9968
+2025-01-14 11:11:18 - INFO -   support: 347970.0000
+2025-01-14 11:11:18 - INFO - Label: 1
+2025-01-14 11:11:18 - INFO -   precision: 0.8903
+2025-01-14 11:11:18 - INFO -   recall: 0.2440
+2025-01-14 11:11:18 - INFO -   f1-score: 0.3830
+2025-01-14 11:11:18 - INFO -   support: 2861.0000
+2025-01-14 11:11:18 - INFO - Label: macro avg
+2025-01-14 11:11:18 - INFO -   precision: 0.9421
+2025-01-14 11:11:18 - INFO -   recall: 0.6219
+2025-01-14 11:11:18 - INFO -   f1-score: 0.6899
+2025-01-14 11:11:18 - INFO -   support: 350831.0000
+2025-01-14 11:11:18 - INFO - Label: weighted avg
+2025-01-14 11:11:18 - INFO -   precision: 0.9930
+2025-01-14 11:11:18 - INFO -   recall: 0.9936
+2025-01-14 11:11:18 - INFO -   f1-score: 0.9918
+2025-01-14 11:11:18 - INFO -   support: 350831.0000
+2025-01-14 11:11:18 - INFO - Process completed successfully.
+2025-01-15 09:47:15 - INFO - Starting data loading process.
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-01.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-02.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-03.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-04.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-05.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-06.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-07.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-08.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-09.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-10.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-11.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-12.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-13.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-14.pkl
+2025-01-15 09:47:15 - INFO - Loading file: Dataset\2018-04-15.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-16.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-17.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-18.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-19.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-20.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-21.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-22.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-23.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-24.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-25.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-26.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-27.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-28.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-29.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-04-30.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-01.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-02.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-03.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-04.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-05.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-06.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-07.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-08.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-09.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-10.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-11.pkl
+2025-01-15 09:47:16 - INFO - Loading file: Dataset\2018-05-12.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-13.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-14.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-15.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-16.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-17.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-18.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-19.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-20.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-21.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-22.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-23.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-24.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-25.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-26.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-27.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-28.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-29.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-30.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-05-31.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-06-01.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-06-02.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-06-03.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-06-04.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-06-05.pkl
+2025-01-15 09:47:17 - INFO - Loading file: Dataset\2018-06-06.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-07.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-08.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-09.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-10.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-11.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-12.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-13.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-14.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-15.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-16.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-17.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-18.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-19.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-20.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-21.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-22.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-23.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-24.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-25.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-26.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-27.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-28.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-29.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-06-30.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-07-01.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-07-02.pkl
+2025-01-15 09:47:18 - INFO - Loading file: Dataset\2018-07-03.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-04.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-05.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-06.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-07.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-08.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-09.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-10.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-11.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-12.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-13.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-14.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-15.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-16.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-17.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-18.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-19.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-20.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-21.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-22.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-23.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-24.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-25.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-26.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-27.pkl
+2025-01-15 09:47:19 - INFO - Loading file: Dataset\2018-07-28.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-07-29.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-07-30.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-07-31.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-01.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-02.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-03.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-04.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-05.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-06.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-07.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-08.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-09.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-10.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-11.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-12.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-13.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-14.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-15.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-16.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-17.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-18.pkl
+2025-01-15 09:47:20 - INFO - Loading file: Dataset\2018-08-19.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-20.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-21.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-22.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-23.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-24.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-25.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-26.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-27.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-28.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-29.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-30.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-08-31.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-01.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-02.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-03.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-04.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-05.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-06.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-07.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-08.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-09.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-10.pkl
+2025-01-15 09:47:21 - INFO - Loading file: Dataset\2018-09-11.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-12.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-13.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-14.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-15.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-16.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-17.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-18.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-19.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-20.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-21.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-22.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-23.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-24.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-25.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-26.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-27.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-28.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-29.pkl
+2025-01-15 09:47:22 - INFO - Loading file: Dataset\2018-09-30.pkl
+2025-01-15 09:47:23 - INFO - All data successfully loaded and combined.
+2025-01-15 09:47:23 - INFO - Starting feature engineering process.
+2025-01-15 09:47:31 - INFO - Splitting data into training and testing sets.
+2025-01-15 09:47:33 - INFO - Applying SMOTE to balance the training dataset.
+2025-01-15 09:47:34 - INFO - Class distribution before SMOTE: {0: 1391579, 1: 11745}
+2025-01-15 09:47:34 - INFO - Class distribution after SMOTE: {1: 1391579, 0: 1391579}
+2025-01-15 09:47:34 - INFO - Starting model training.
+2025-01-15 10:19:34 - INFO - Model training completed successfully.
+2025-01-15 10:19:34 - INFO - Training dataset size: 2783158
+2025-01-15 10:19:34 - INFO - Testing dataset size: 350831
+2025-01-15 10:19:49 - INFO - Trained model saved to 'fraud_model.pkl'.
+2025-01-15 10:19:49 - INFO - Trained model saved to 'fraud_model.pkl'.
+2025-01-15 10:19:49 - INFO - Starting model evaluation.
+2025-01-15 10:20:01 - INFO - Model evaluation completed successfully.
+2025-01-15 10:20:01 - INFO - Evaluation Metrics:
+2025-01-15 10:20:01 - INFO - Accuracy Score: 0.9747
+2025-01-15 10:20:01 - INFO - Confusion Matrix: [[339664, 8231], [651, 2285]]
+2025-01-15 10:20:01 - INFO - Label: 0
+2025-01-15 10:20:01 - INFO -   precision: 0.9981
+2025-01-15 10:20:01 - INFO -   recall: 0.9763
+2025-01-15 10:20:01 - INFO -   f1-score: 0.9871
+2025-01-15 10:20:01 - INFO -   support: 347895.0000
+2025-01-15 10:20:01 - INFO - Label: 1
+2025-01-15 10:20:01 - INFO -   precision: 0.2173
+2025-01-15 10:20:01 - INFO -   recall: 0.7783
+2025-01-15 10:20:01 - INFO -   f1-score: 0.3397
+2025-01-15 10:20:01 - INFO -   support: 2936.0000
+2025-01-15 10:20:01 - INFO - Label: macro avg
+2025-01-15 10:20:01 - INFO -   precision: 0.6077
+2025-01-15 10:20:01 - INFO -   recall: 0.8773
+2025-01-15 10:20:01 - INFO -   f1-score: 0.6634
+2025-01-15 10:20:01 - INFO -   support: 350831.0000
+2025-01-15 10:20:01 - INFO - Label: weighted avg
+2025-01-15 10:20:01 - INFO -   precision: 0.9916
+2025-01-15 10:20:01 - INFO -   recall: 0.9747
+2025-01-15 10:20:01 - INFO -   f1-score: 0.9817
+2025-01-15 10:20:01 - INFO -   support: 350831.0000
+2025-01-15 10:20:01 - INFO - Process completed successfully.

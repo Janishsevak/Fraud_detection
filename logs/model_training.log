@@ -1,0 +1,56 @@
+2025-01-14 11:11:06 - INFO - Model training completed successfully.
+2025-01-14 11:11:06 - INFO - Training dataset size: 1403324
+2025-01-14 11:11:06 - INFO - Testing dataset size: 350831
+2025-01-14 11:11:10 - INFO - Trained model saved to 'fraud_model.pkl'.
+2025-01-14 11:11:18 - INFO - Model evaluation completed successfully.
+2025-01-14 11:11:18 - INFO - Evaluation Metrics:
+2025-01-14 11:11:18 - INFO - Accuracy Score: 0.9936
+2025-01-14 11:11:18 - INFO - Confusion Matrix: [[347884, 86], [2163, 698]]
+2025-01-14 11:11:18 - INFO - Label: 0
+2025-01-14 11:11:18 - INFO -   precision: 0.9938
+2025-01-14 11:11:18 - INFO -   recall: 0.9998
+2025-01-14 11:11:18 - INFO -   f1-score: 0.9968
+2025-01-14 11:11:18 - INFO -   support: 347970.0000
+2025-01-14 11:11:18 - INFO - Label: 1
+2025-01-14 11:11:18 - INFO -   precision: 0.8903
+2025-01-14 11:11:18 - INFO -   recall: 0.2440
+2025-01-14 11:11:18 - INFO -   f1-score: 0.3830
+2025-01-14 11:11:18 - INFO -   support: 2861.0000
+2025-01-14 11:11:18 - INFO - Label: macro avg
+2025-01-14 11:11:18 - INFO -   precision: 0.9421
+2025-01-14 11:11:18 - INFO -   recall: 0.6219
+2025-01-14 11:11:18 - INFO -   f1-score: 0.6899
+2025-01-14 11:11:18 - INFO -   support: 350831.0000
+2025-01-14 11:11:18 - INFO - Label: weighted avg
+2025-01-14 11:11:18 - INFO -   precision: 0.9930
+2025-01-14 11:11:18 - INFO -   recall: 0.9936
+2025-01-14 11:11:18 - INFO -   f1-score: 0.9918
+2025-01-14 11:11:18 - INFO -   support: 350831.0000
+2025-01-15 10:19:34 - INFO - Model training completed successfully.
+2025-01-15 10:19:34 - INFO - Training dataset size: 2783158
+2025-01-15 10:19:34 - INFO - Testing dataset size: 350831
+2025-01-15 10:19:49 - INFO - Trained model saved to 'fraud_model.pkl'.
+2025-01-15 10:20:01 - INFO - Model evaluation completed successfully.
+2025-01-15 10:20:01 - INFO - Evaluation Metrics:
+2025-01-15 10:20:01 - INFO - Accuracy Score: 0.9747
+2025-01-15 10:20:01 - INFO - Confusion Matrix: [[339664, 8231], [651, 2285]]
+2025-01-15 10:20:01 - INFO - Label: 0
+2025-01-15 10:20:01 - INFO -   precision: 0.9981
+2025-01-15 10:20:01 - INFO -   recall: 0.9763
+2025-01-15 10:20:01 - INFO -   f1-score: 0.9871
+2025-01-15 10:20:01 - INFO -   support: 347895.0000
+2025-01-15 10:20:01 - INFO - Label: 1
+2025-01-15 10:20:01 - INFO -   precision: 0.2173
+2025-01-15 10:20:01 - INFO -   recall: 0.7783
+2025-01-15 10:20:01 - INFO -   f1-score: 0.3397
+2025-01-15 10:20:01 - INFO -   support: 2936.0000
+2025-01-15 10:20:01 - INFO - Label: macro avg
+2025-01-15 10:20:01 - INFO -   precision: 0.6077
+2025-01-15 10:20:01 - INFO -   recall: 0.8773
+2025-01-15 10:20:01 - INFO -   f1-score: 0.6634
+2025-01-15 10:20:01 - INFO -   support: 350831.0000
+2025-01-15 10:20:01 - INFO - Label: weighted avg
+2025-01-15 10:20:01 - INFO -   precision: 0.9916
+2025-01-15 10:20:01 - INFO -   recall: 0.9747
+2025-01-15 10:20:01 - INFO -   f1-score: 0.9817
+2025-01-15 10:20:01 - INFO -   support: 350831.0000

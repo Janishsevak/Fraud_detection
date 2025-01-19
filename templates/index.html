@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Detection</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        label {
+            font-size: 16px;
+            margin-bottom: 8px;
+            display: block;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Fraud Detection</h1>
+        <form action="/predict" method="POST">
+            <label for="TX_AMOUNT">Transaction Amount</label>
+            <input type="number" step="any" name="TX_AMOUNT" id="TX_AMOUNT" required>
+            
+            <label for="DAY">Day</label>
+            <input type="number" name="DAY" id="DAY" required>
+            
+            <label for="HOUR">Hour</label>
+            <input type="number" name="HOUR" id="HOUR" required>
+            
+            <label for="TERMINAL_FRAUD_RATIO">Terminal Fraud Ratio</label>
+            <input type="number" step="any" name="TERMINAL_FRAUD_RATIO" id="TERMINAL_FRAUD_RATIO" required>
+            
+            <label for="CUSTOMER_FRAUD_RATIO">Customer Fraud Ratio</label>
+            <input type="number" step="any" name="CUSTOMER_FRAUD_RATIO" id="CUSTOMER_FRAUD_RATIO" required>
+
+            <button type="submit">Check Fraud</button>
+        </form>
+    </div>
+</body>
+</html>

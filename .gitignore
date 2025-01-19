@@ -1,0 +1,5 @@
+fraud/
+__pycache__/
+Data/
+fraud_model.pkl
+Dataset/
